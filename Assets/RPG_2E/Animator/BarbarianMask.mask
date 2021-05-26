@@ -1,0 +1,324 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BarbarianMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: barbarian_boot_01_LOD0
+    m_Weight: 1
+  - m_Path: barbarian_boot_01_LOD1
+    m_Weight: 1
+  - m_Path: barbarian_boot_02_LOD0
+    m_Weight: 1
+  - m_Path: barbarian_boot_02_LOD1
+    m_Weight: 1
+  - m_Path: barbarian_cloth_01_LOD0
+    m_Weight: 1
+  - m_Path: barbarian_cloth_01_LOD1
+    m_Weight: 1
+  - m_Path: barbarian_cloth_02_LOD0
+    m_Weight: 1
+  - m_Path: barbarian_cloth_02_LOD1
+    m_Weight: 1
+  - m_Path: barbarian_cloth_03_LOD0
+    m_Weight: 1
+  - m_Path: barbarian_cloth_03_LOD1
+    m_Weight: 1
+  - m_Path: barbarian_hair_01_LOD0
+    m_Weight: 1
+  - m_Path: barbarian_hair_01_LOD1
+    m_Weight: 1
+  - m_Path: barbarian_LOD0
+    m_Weight: 1
+  - m_Path: barbarian_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/barbarian_belt_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/barbarian_belt_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/Barbariancloth_back
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/Barbariancloth_front
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianLThigh
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/barbarian_knee_pad_L_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/barbarian_knee_pad_L_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/barbarian_leg plate_L_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/barbarian_leg_plate_L_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/BarbarianLFoot
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianLThigh/BarbarianLCalf/BarbarianLFoot/BarbarianLtoe1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianRThigh
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/barbarian_knee_pad_R_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/barbarian_knee_pad_R_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/barbarian_leg plate_R_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/barbarian_leg_plate_R_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/BarbarianRFoot
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianRThigh/BarbarianRCalf/BarbarianRFoot/BarbarianRtoe1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/barbarian_shoulder
+      pad_01_L_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/barbarian_shoulder
+      pad_02_L_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/barbarian_shoulder
+      pad_03_L_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/barbarian_shoulder
+      pad_04_L_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/barbarian_shoulder_pad_01_L_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/barbarian_shoulder_pad_02_L_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/barbarian_shoulder_pad_03_L_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/barbarian_shoulder_pad_04_L_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/barbarian_arm
+      plate_01_L_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/barbarian_arm
+      plate_02_L_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/barbarian_arm_plate_01_L_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/barbarian_arm_plate_02_L_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/Barbarian_weaponL
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/Barbarian_weaponL/shield_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/Barbarian_weaponL/shield_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/Barbarian_weaponL/shield_02_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/Barbarian_weaponL/shield_02_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11/BarbarianLDigit12
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit11/BarbarianLDigit12/BarbarianLDigit13
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21/BarbarianLDigit22
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit21/BarbarianLDigit22/BarbarianLDigit23
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31/BarbarianLDigit32
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit31/BarbarianLDigit32/BarbarianLDigit33
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit41
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit41/BarbarianLDigit42
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit41/BarbarianLDigit42/BarbarianLDigit43
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit51
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit51/BarbarianLDigit52
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianLCollarbone/BarbarianLUpperarm/BarbarianLForearm/BarbarianLPalm/BarbarianLDigit51/BarbarianLDigit52/BarbarianLDigit53
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_gladiator_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_gladiator_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_helmet_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_helmet_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_helmet_02_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_helmet_02_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_helmet_03_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_helmet_03_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_helmet_04_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/barbarian_helmet_04_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/BarbarianEye_L
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/BarbarianEye_R
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianNeck/BarbarianHead/Barbarianjaw
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/barbarian_shoulder
+      pad_01_R_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/barbarian_shoulder
+      pad_02_R_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/barbarian_shoulder
+      pad_03_R_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/barbarian_shoulder
+      pad_04_R_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/barbarian_shoulder_pad_01_R_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/barbarian_shoulder_pad_02_R_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/barbarian_shoulder_pad_03_R_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/barbarian_shoulder_pad_04_R_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/barbarian_arm
+      plate_01_R_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/barbarian_arm
+      plate_02_R_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/barbarian_arm_plate_01_R_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/barbarian_arm_plate_02_R_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/axe_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/axe_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/axe_02_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/axe_02_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/barbarian_club_02_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/barbarian_club_02_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/club_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/club_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/falchion_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/falchion_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/gladius_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/gladius_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/mace_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/mace_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/maul_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/maul_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/scimitar_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/scimitar_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/spear_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/spear_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/sword_bastard_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/sword_bastard_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/sword_broad_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/sword_broad_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/sword_short_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/Barbarian_weaponR/sword_short_01_LOD1
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11/BarbarianRDigit12
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit11/BarbarianRDigit12/BarbarianRDigit13
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21/BarbarianRDigit22
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit21/BarbarianRDigit22/BarbarianRDigit23
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31/BarbarianRDigit32
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit31/BarbarianRDigit32/BarbarianRDigit33
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit41
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit41/BarbarianRDigit42
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit41/BarbarianRDigit42/BarbarianRDigit43
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit51
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit51/BarbarianRDigit52
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/BarbarianRCollarbone/BarbarianRUpperarm/BarbarianRForearm/BarbarianRPalm/BarbarianRDigit51/BarbarianRDigit52/BarbarianRDigit53
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/quiver_01_LOD0
+    m_Weight: 1
+  - m_Path: BarbarianPelvis/BarbarianSpine1/BarbarianSpine2/BarbarianSpine3/BarbarianRibcage/quiver_01_LOD1
+    m_Weight: 1
