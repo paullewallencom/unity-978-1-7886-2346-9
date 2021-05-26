@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Awakening.unity
+- path: Assets/RPG_2E/Scenes/CharacterCustomization.unity
   isLoaded: 1
   isActive: 1
